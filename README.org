@@ -1,0 +1,27 @@
+* Kicad library
+** Description
+Some [[http://www.lis.inpg.fr/realise_au_lis/kicad/][Kicad]] components and footprints.
+** Version
+Tested on [[http://www.lis.inpg.fr/realise_au_lis/kicad/][Kicad]] v.2.8.11 on [[http://www.archlinux.org/][ArchLinux]].
+** Content
+*** Components
+**** [[http://www.maxim-ic.com/datasheet/index.mvp/id/1017][MAX1044]]
+Switched-Capacitor Voltage Converter by MAXIM.
+**** [[http://ww1.microchip.com/downloads/en/DeviceDoc/11195c.pdf][MPC42XXX]]
+Digital potentiometer by MICROCHIP.
+**** [[http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en026562][PIC16F88x]]
+PIC16F882/883/886 by MICROCHIP.
+*** Footprints
+**** capa
+Four specific capacitor footprints.
+**** mini\_pot
+Footprint for ACP CA9 horizontal trimpo.
+
+** Author
+Cédric Brégardis (cedric.bregardis <at> gmail.com)
+** Licence
+   This work is licensed under the Creative Commons
+   Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of
+   this license, visit [[http://creativecommons.org/licenses/by-nc-sa/3.0/]] or send
+   a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco,
+   California, 94105, USA.
