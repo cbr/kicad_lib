@@ -14,8 +14,8 @@ PIC16F882/883/886 by MICROCHIP.
 *** Footprints
 **** capa
 Four specific capacitor footprints.
-**** mini\_pot
-Footprint for ACP CA9 horizontal trimpo.
+**** mini_pot
+Footprint for ACP CA9 horizontal trimpot.
 
 ** Author
 Cédric Brégardis (cedric.bregardis <at> gmail.com)
